@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-cb5bed5bbc.zhongcanjiameng.cn/sitemap.xml

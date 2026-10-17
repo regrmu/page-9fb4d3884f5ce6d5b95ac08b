@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "fbf739c160b8984adc05b7d3",
+  "owner": "regrmu",
+  "repo": "page-9fb4d3884f5ce6d5b95ac08b",
+  "title": "浪浪山(CrossWall)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9fb4d3884f5ce6d5b95ac08b",
+      "a": "浪浪山(CrossWall)",
+      "b": "",
+      "entity": "浪浪山(CrossWall)",
+      "brand": "浪浪山(CrossWall)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "92cbe32bad4d6a85810898fdc086bb59657349b8aa27aafb2caba1c788bdad1c",
+      "content": {
+        "keyword1": "浪浪山(CrossWall)",
+        "keyword2": "",
+        "primary_entity": "浪浪山(CrossWall)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "浪浪山(CrossWall)提供多款流量套餐，助力您畅享安全稳定的网络体验。从基础到团队版，多种选择满足不同需求。",
+          "AI_DESCRIPTION": "浪浪山(CrossWall)提供多款流量套餐，助力您畅享安全稳定的网络体验。从基础到团队版，多种选择满足不同需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--orange: #FF6F00;--dark: #1A1A1A;--light: #F8F8F8}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;background: var(--light);color: #333;line-height: 1.6;max-width: 1200px;margin: 0 auto}\n        header {background: white;box-shadow: 0 2px 10px rgba(0,0,0,0.05);position: sticky;top: 0;z-index: 100}\n        .header-content {display: flex;justify-content: space-between;align-items: center;padding: 1rem 2rem}\n        .logo {font-size: 1.8rem;font-weight: bold;color: var(--orange);display: flex;align-items: center;gap: 8px}\n        .logo span {color: #333}\n        nav.top-nav {display: flex;gap: 2rem;list-style: none}\n        nav.top-nav a {text-decoration: none;color: #333;font-weight: 500;transition: color 0.3s}\n        nav.top-nav a:hover {color: var(--orange)}\n        .hero {height: 100vh;background: white;display: flex;align-items: center;justify-content: center;position: relative;overflow: hidden}\n        .hero-dashboard {display: grid;grid-template-columns: repeat(4, 1fr);gap: 1.5rem;max-width: 800px;width: 100%;padding: 2rem;background: white;border-radius: 20px;box-shadow: 0 10px 30px rgba(255, 111, 0, 0.1)}\n        .stat-block {text-align: center;padding: 1.5rem;border: 2px solid var(--orange);border-radius: 12px;transition: transform 0.3s}\n        .stat-block:hover {transform: translateY(-5px)}\n        .stat-number {font-size: 2.5rem;font-weight: bold;color: var(--orange);margin-bottom: 0.5rem}\n        .stat-label {font-size: 1rem;color: #666}\n        .content {padding: 3rem 2rem}\n        h1 {font-size: 3rem;margin-bottom: 1.5rem;color: #222}\n        .intro {font-size: 1.25rem;max-width: 800px;margin-bottom: 3rem;color: #444}\n        .plans-section {margin-bottom: 4rem}\n        .section-title {font-size: 2.2rem;margin-bottom: 2rem;text-align: center;color: var(--orange)}\n        .comparison-table {width: 100%;border-collapse: collapse;background: white;box-shadow: 0 5px 15px rgba(0,0,0,0.05);border-radius: 12px;overflow: hidden}\n        .comparison-table th {background: #f8f8f8;padding: 1rem;text-align: center;font-weight: 600;color: #333}\n        .comparison-table td {padding: 1.2rem;border-bottom: 1px solid #eee;text-align: center;vertical-align: top}\n        .plan-name {font-weight: bold;font-size: 1.2rem}\n        .price {font-size: 1.8rem;color: var(--orange)}\n        .annual {color: #666;font-size: 0.9rem}\n        .featured {position: relative}\n        .featured::after {content: \"推荐\";position: absolute;top: -10px;right: 20px;background: var(--orange);color: white;padding: 0.3rem 1rem;border-radius: 20px;font-size: 0.8rem;font-weight: bold}\n        .cards-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 1.5rem;margin-bottom: 3rem}\n        .benefit-card {display: flex;background: white;border-radius: 12px;overflow: hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.05)}\n        .left-bar {width: 8px;background: var(--orange)}\n        .card-content {padding: 2rem}\n        .card-content h3 {margin-bottom: 1rem;color: var(--orange)}\n        .faq-section {background: white;padding: 3rem;border-radius: 12px;box-shadow: 0 5px 15px rgba(0,0,0,0.05);margin-bottom: 4rem}\n        .faq-title {text-align: center;font-size: 2rem;margin-bottom: 2rem;color: var(--orange)}\n        .faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n        .faq-item {padding: 1.5rem;border-bottom: 1px solid #eee}\n        .faq-question {font-weight: bold;color: #222;margin-bottom: 0.8rem;font-size: 1.1rem}\n        .faq-answer {color: #555}\n        footer {background: #222;color: white;padding: 2rem;text-align: center}\n        .bottom-nav {position: fixed;bottom: 0;left: 0;right: 0;background: white;border-top: 1px solid #eee;display: flex;justify-content: space-around;padding: 0.8rem 0;z-index: 100;box-shadow: 0 -2px 10px rgba(0,0,0,0.05)}\n        .bottom-nav a {text-decoration: none;color: var(--orange);font-size: 0.85rem;display: flex;flex-direction: column;align-items: center;transition: color 0.3s}\n        .bottom-nav a:hover {color: #FF6F00}\n        .bottom-nav .icon {font-size: 1.4rem;margin-bottom: 0.2rem}\n        @media (max-width: 768px) {\n            .hero-dashboard {grid-template-columns: 1fr;gap: 1rem}\n            .faq-grid {grid-template-columns: 1fr}\n            .bottom-nav {padding: 0.5rem 0}\n            h1 {font-size: 2.5rem}\n        }\n    </style><header>\n        <div class=\"header-content\">\n            <div class=\"logo\">\n                浪浪山 <span>(CrossWall)</span>\n            </div>\n            <nav class=\"top-nav\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#\">关于</a>\n            </nav>\n        </div>\n    </header>\n\n    <section class=\"hero\">\n        <div class=\"hero-dashboard\">\n            <div class=\"stat-block\">\n                <div class=\"stat-number\">1000GB</div>\n                <div class=\"stat-label\">每月高速流量</div>\n            </div>\n            <div class=\"stat-block\">\n                <div class=\"stat-number\">20台</div>\n                <div class=\"stat-label\">设备同时在线</div>\n            </div>\n            <div class=\"stat-block\">\n                <div class=\"stat-number\">7x24</div>\n                <div class=\"stat-label\">优先支持</div>\n            </div>\n            <div class=\"stat-block\">\n                <div class=\"stat-number\">全节点</div>\n                <div class=\"stat-label\">原生解锁</div>\n            </div>\n        </div>\n    </section>\n\n    <main class=\"content\">\n        <h1>浪浪山(CrossWall)</h1>\n        <p class=\"intro\">在数字浪潮中，连接的自由至关重要。浪浪山(CrossWall) 作为您的数字伴侣，致力于为您提供从基础到高级的多维度流量解决方案，让每一次上网都畅通无阻。</p>\n\n        <section id=\"plans\" class=\"plans-section\">\n            <h2 class=\"section-title\">选择适合您的套餐</h2>\n            <table class=\"comparison-table\">\n                <thead>\n                    <tr>\n                        <th>套餐</th>\n                        <th>月付</th>\n                        <th>年付</th>\n                        <th>流量</th>\n                        <th>设备支持</th>\n                        <th>核心权益</th>\n                    </tr>\n                </thead>\n                <tbody>\n                    <tr>\n                        <td class=\"plan-name\">基础版</td>\n                        <td class=\"price\">¥15/月</td>\n                        <td class=\"annual\">按年付仅需 ¥150/年</td>\n                        <td>每月 100GB 极速流量</td>\n                        <td>支持 3 台设备同时在线</td>\n                        <td>解锁基础流媒体，普通线路节点池</td>\n                    </tr>\n                    <tr class=\"featured\">\n                        <td class=\"plan-name\">旗舰版</td>\n                        <td class=\"price\">¥35/月</td>\n                        <td class=\"annual\">按年付仅需 ¥350/年</td>\n                        <td>每月 300GB 极速流量</td>\n                        <td>支持 5 台设备同时在线</td>\n                        <td>全节点原生流媒体解锁，IPLC 专线游戏加速优化，7x24 优先工单支持</td>\n                    </tr>\n                    <tr>\n                        <td class=\"plan-name\">团队版</td>\n                        <td class=\"price\">¥85/月</td>\n                        <td class=\"annual\">按年付仅需 ¥850/年</td>\n                        <td>每月 1000GB 极速流量</td>\n                        <td>支持 20 台设备同时在线</td>\n                        <td>VIP 专属高带宽节点，支持企业定制路由，专属客户经理服务</td>\n                    </tr>\n                </tbody>\n            </table>\n        </section>\n\n        <section class=\"cards-grid\">\n            <div class=\"benefit-card\">\n                <div class=\"left-bar\"></div>\n                <div class=\"card-content\">\n                    <h3>流量无忧</h3>\n                    <p>无论基础版还是旗舰版，每月都有稳定的高速流量保障，让您在任何场景下都能保持高效连接。</p>\n                </div>\n            </div>\n            <div class=\"benefit-card\">\n                <div class=\"left-bar\"></div>\n                <div class=\"card-content\">\n                    <h3>设备多联</h3>\n                    <p>从个人使用到家庭共享，多种套餐支持多台设备同时在线，满足您的全家需求。</p>\n                </div>\n            </div>\n            <div class=\"benefit-card\">\n                <div class=\"left-bar\"></div>\n                <div class=\"card-content\">\n                    <h3>定制服务</h3>\n                    <p>团队版专属客户经理和企业定制路由，为企业用户提供专属支持。</p>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"faq-section\">\n            <h2 class=\"section-title\">常见问题</h2>\n            <div class=\"faq-grid\">\n                <div>\n                    <div class=\"faq-item\">\n                        <div class=\"faq-question\">浪浪山(CrossWall) 是什么？</div>\n                        <div class=\"faq-answer\">浪浪山(CrossWall) 是一个提供安全网络连接服务的品牌，旨在帮助用户突破地域限制并保持在线隐私。</div>\n                    </div>\n                    <div class=\"faq-item\">\n                        <div class=\"faq-question\">如何选择适合我的套餐？</div>\n                        <div class=\"faq-answer\">基础版适合个人轻度使用，旗舰版适合重度流媒体爱好者，团队版适合大型团队或企业用户。</div>\n                    </div>\n                    <div class=\"faq-item\">\n                        <div class=\"faq-question\">支持哪些设备吗？</div>\n                        <div class=\"faq-answer\">是的，所有套餐都支持多台设备同时在线，具体配置请查看套餐详情。</div>\n                    </div>\n                </div>\n                <div>\n                    <div class=\"faq-item\">\n                        <div class=\"faq-question\">年付模式有什么优势？</div>\n                        <div class=\"faq-answer\">年付模式可节省约20%的费用，让长期使用更具性价比。</div>\n                    </div>\n                    <div class=\"faq-item\">\n                        <div class=\"faq-question\">如何获取更多流量？</div>\n                        <div class=\"faq-answer\">通过选择更高阶的套餐或关注我们的升级计划，您可以获得更多高速流量。</div>\n                    </div>\n                    <div class=\"faq-item\">\n                        <div class=\"faq-question\">客服支持如何？</div>\n                        <div class=\"faq-answer\">旗舰版和团队版均提供7x24 优先工单支持，响应更快。</div>\n                    </div>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <div class=\"bottom-nav\">\n            <a href=\"#\">\n                <span class=\"icon\">🏠</span>\n                首页\n            </a>\n            <a href=\"#plans\">\n                <span class=\"icon\">📦</span>\n                套餐\n            </a>\n            <a href=\"#faq\">\n                <span class=\"icon\">❓</span>\n                FAQ\n            </a>\n            <a href=\"#\">\n                <span class=\"icon\">👤</span>\n                关于\n            </a>\n        </div>\n    </footer>",
+          "hash": "1138e2a573f27f7c3d7866bf8a52b2e928d08593a1f2a939d58819cdbac865a3",
+          "seo": {
+            "title": "浪浪山(CrossWall) - 橙色守护数字自由",
+            "keywords": "浪浪山, CrossWall, VPN, 流量套餐, 网络加速, 设备支持",
+            "description": "浪浪山(CrossWall)提供多款流量套餐，助力您畅享安全稳定的网络体验。从基础到团队版，多种选择满足不同需求。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "4395",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhongcanjiameng.cn",
+    "host": "p-cb5bed5bbc.zhongcanjiameng.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "31341600f81a1b8dfe61a8c9fcc55148e21d811f9dc009e454e2ff097563e25c",
+    "sitemap.xml": "25b73ec71a367f5e4c80e2c7736404d8ea308f27efd172913ed4fda31ec5666b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7a13f4f52c788fa9a03916cc56cfaf2c2aeb57495152f6b6477d437439bfe243",
+    "robots.txt": "111c22270d2f842c330e51395c49655ea75a37d057fab24eec27279766d9f908",
+    "176cde553dccdd7a5e70be00e1b408cf.txt": "68aa35ebe28f81cd07c21c739bb9ba0620adba19f6ee8eaa07d436b8bfd5e5e2"
+  },
+  "revision": "1dee0df6f05c5bee9c66d6f0c24326e5d76fc4598c8654a867cca98e253ee472"
+}
